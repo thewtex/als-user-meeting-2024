@@ -3,9 +3,11 @@ authors = ["Matt McCormick <matt.mccormick@kitware.com>"]
 channels = ["conda-forge"]
 description = "Modern open source microCT methods to enhance accessibility, scalability, and reproducibility"
 name = "als-user-meeting-2024"
-platforms = ["linux-aarch64"]
+platforms = ["win-64", "linux-64", "linux-aarch64", "osx-64", "osx-arm64"]
 version = "1.0.0"
 
 [tasks]
+start = "jupyter lab"
 
 [dependencies]
+jupyterlab = ">=4.2.4,<5"
