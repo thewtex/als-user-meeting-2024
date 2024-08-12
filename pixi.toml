@@ -1,0 +1,11 @@
+[project]
+authors = ["Matt McCormick <matt.mccormick@kitware.com>"]
+channels = ["conda-forge"]
+description = "Modern open source microCT methods to enhance accessibility, scalability, and reproducibility"
+name = "als-user-meeting-2024"
+platforms = ["linux-aarch64"]
+version = "1.0.0"
+
+[tasks]
+
+[dependencies]
