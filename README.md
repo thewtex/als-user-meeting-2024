@@ -2,7 +2,7 @@
 
 > Lawrence Berkeley National Laboratory (LBNL) Advanced Light Source (ALS) User Meeting
 
-> August, 2024
+> August 13th, 2024
 
 > Matt McCormick, PhD
 
