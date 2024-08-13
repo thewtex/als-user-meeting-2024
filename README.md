@@ -22,9 +22,9 @@ We will learn how to:
 - **Create cross-platform reproducible software environments** for microCT analysis and visualization 🔬
 - **Forgo dependency hell 👿**
 
-### 3. Interactive 3D Browser-based microCT Visualization
+### 2. Interactive 3D Browser-based microCT Visualization
 
-![tooth](./figures/tooth2.png)
+![tooth](./figures/tooth2.webp)
 
 An overview of how to **visualize large-scale microCT volumes**, covering
 
@@ -32,9 +32,9 @@ An overview of how to **visualize large-scale microCT volumes**, covering
 - **How to modify the color and opacity transfer functions 🎨**
 - **How to select different view type️s 🕹️**
 
-### 2. Filtering Large-scale MicroCT Volumes
+### 3. Filtering Large-scale MicroCT Volumes
 
-![vulture](./figures/vulture.png)
+![vulture](./figures/vulture.webp)
 An overview of how to **process large-scale microCT volumes**, addressing how to
 
 - **Avoid running out of memory 🫗**
