@@ -2,3 +2,7 @@
 .pixi
 *.egg-info
 .ipynb_checkpoints
+connected_roi.zarr/
+median_roi.zarr/
+thresholded_roi.zarr/
+turkey_vulture_skull_small.zarr/
