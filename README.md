@@ -12,6 +12,8 @@ We will cover three topics.
 
 ### 1. Enjoyable, Reproducible Software Environments
 
+![easy pixi](./figures/pixi-graph.svg)
+
 An introduction to **[Pixi](https://pixi.sh)**, a *cross-platform package management tool to manage software environments in a reproducible way*.
 
 We will learn how to:
@@ -20,8 +22,19 @@ We will learn how to:
 - **Create cross-platform reproducible software environments** for microCT analysis and visualization 🔬
 - **Forgo dependency hell 👿**
 
+### 3. Interactive 3D Browser-based microCT Visualization
+
+![tooth](./figures/tooth2.png)
+
+An overview of how to **visualize large-scale microCT volumes**, covering
+
+- **How to visualize large-scale volumes in Jupyter 🌌**
+- **How to modify the color and opacity transfer functions 🎨**
+- **How to select different view type️s 🕹️**
+
 ### 2. Filtering Large-scale MicroCT Volumes
 
+![vulture](./figures/vulture.png)
 An overview of how to **process large-scale microCT volumes**, addressing how to
 
 - **Avoid running out of memory 🫗**
