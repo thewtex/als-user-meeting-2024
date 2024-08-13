@@ -6,6 +6,8 @@
 
 > Matt McCormick, PhD
 
+Let's go on **A Journey into the Sample (8.3.2)**
+
 ## Get these materials: https://bit.ly/als-user-meeting-2024
 
 [![materials qr code](./figures/materials-qr-code.svg)](https://bit.ly/als-user-meeting-2024)
